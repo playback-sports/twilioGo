@@ -6,8 +6,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/SermoDigital/jose/crypto"
-	"github.com/SermoDigital/jose/jws"
+	"github.com/playback-sports/jose/crypto"
+	"github.com/playback-sports/jose/jws"
 )
 
 const (
