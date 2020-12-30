@@ -15,8 +15,8 @@ const (
 	keyContentType   = "cty"
 	tokenContentType = "twilio-fpa;v=1"
 
-	// the default ttl, one hour
-	defaultTTL = time.Hour
+	// the default ttl, four hours
+	defaultTTL = time.Hour * 4
 )
 
 var (
